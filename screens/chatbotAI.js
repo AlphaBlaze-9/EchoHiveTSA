@@ -14,7 +14,7 @@ import {
 import { useNavigation } from "@react-navigation/native";
 import axios from "axios";
 
-const API_KEY = ""; // Replace with your OpenAI API key
+const API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 const BASE_URL = "https://api.openai.com/v1/chat/completions";
 
 const ChatbotScreen = () => {
